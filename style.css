@@ -1,4 +1,7 @@
 body {
-	background-color: blue;
+	background-color: lightblue;
 	font-style: italic;
+}
+a {
+	color: red;
 }
